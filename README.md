@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="1200" height="400"  />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGxqYmJjZnI5cDRiMnlueGQ4YW15cXVzZXliYjhuY2lpbXo3OWc3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yYSSBtDgbbRzq/giphy.gif" height='400px' width='100%' />
 
 
 <h3 align="center" >Hello..! <img src="https://c.tenor.com/4kIHjPaMiDoAAAAi/the-blobs-live-on-waving.gif" height="40" width="40" /> , I'm 𝐁𝐢𝐬𝐡𝐚𝐥 𝐃𝐞</h3>
@@ -10,6 +10,7 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=black&labelColor=red&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/bishalde"/></a>
 <a href="https://github.com/trinib?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/bishalde?color=black&labelColor=red&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+
   <br />
 <img src="https://komarev.com/ghpvc/?username=bishalde&color=red&style=for-the-badge">
 </p>

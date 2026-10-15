@@ -17,63 +17,38 @@
 
 ## About me
 
-I build the systems that keep distributed communications infrastructure reliable on
-**Twilio's Observability team**. Over 3+ years I've worked across the whole stack:
-React and Next.js frontends, Python and Go services, ML and LLM systems, and the AWS,
-Docker and Kubernetes infrastructure underneath.
+Full-stack web developer and machine learning engineer with 3+ years of experience
+shipping scalable applications across MERN, Python and cloud-native stacks. Today I
+build the systems that keep distributed communications infrastructure reliable on
+**Twilio's Observability team**. I care about fast UX, good observability and
+reliable delivery.
 
 - 🔭 Building observability tooling in Python and Go at **Twilio**
 - 🛠️ Shipping small, useful web apps in my spare time, like **[CountJar](https://countjar.vercel.app)**
 - 🧠 Interested in RAG, LLM applications and platform engineering
 - 🏆 3× hackathon podium finisher, with two 1st places
-- 💼 Open to freelance work and collaborations
+- 💼 Open to freelance work and collaborations, with 5-star reviews on Fiverr
 
-## Things I've built
+## What I do
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://countjar.vercel.app"><img src="assets/projects/countjar.jpg" alt="CountJar landing page"></a>
-      <h3><a href="https://countjar.vercel.app">CountJar</a></h3>
-      Hosted counters where every number gets its own URL. Count views, likes, votes and ratings over an API, show them with widgets and badges, and get milestone alerts. The views badge above runs on it.
-      <br><br><code>Flask</code> <code>MongoDB</code> <code>Tailwind</code> <code>Twilio Verify</code> · <a href="https://github.com/bishalde/countjar">Code</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://memorybell.vercel.app"><img src="assets/projects/memorybell.jpg" alt="MemoryBell landing page"></a>
-      <h3><a href="https://memorybell.vercel.app">MemoryBell</a></h3>
-      Save a birthday or anniversary once and get a text on the day, or up to a week ahead, every year. Counts the years and keeps your gift ideas.
-      <br><br><code>Flask</code> <code>MongoDB</code> <code>Twilio</code> <code>Tailwind</code> · <a href="https://github.com/bishalde/MemoryBell">Code</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://qrbuilder.vercel.app"><img src="assets/projects/qrbuilder.jpg" alt="QRBuilder app"></a>
-      <h3><a href="https://qrbuilder.vercel.app">QRBuilder</a></h3>
-      QR codes for links, Wi-Fi, contact cards, emails, texts and locations, with custom colours, shapes and logos. Exports PNG, JPEG or SVG, all in the browser.
-      <br><br><code>JavaScript</code> <code>Privacy-first</code> · <a href="https://github.com/bishalde/QR-Code-Generator">Code</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://shrinkk.vercel.app"><img src="assets/projects/shrinkk.jpg" alt="Shrinkk link shortener"></a>
-      <h3><a href="https://shrinkk.vercel.app">Shrinkk</a></h3>
-      Shorten links, generate QR codes and build a link-in-bio page, then see who's clicking and from where.
-      <br><br><code>Django</code> <code>Analytics</code> · <a href="https://github.com/bishalde/Shrinkk">Code</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://githubcrawler.vercel.app"><img src="assets/projects/githubcrawler.jpg" alt="GitHubCrawler profile explorer"></a>
-      <h3><a href="https://githubcrawler.vercel.app">GitHubCrawler</a></h3>
-      Explore any GitHub profile: language mix, top repos, total stars and a repo timeline, plus side-by-side developer comparison. No sign-in needed.
-      <br><br><code>GitHub API</code> <code>Analytics</code> · <a href="https://github.com/bishalde/GithubCrawler">Code</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://taskmatee.vercel.app"><img src="assets/projects/taskmate.jpg" alt="TaskMate sign-in page"></a>
-      <h3><a href="https://taskmatee.vercel.app">TaskMate</a></h3>
-      A to-do and project manager for creating, organising and prioritising tasks, with an admin view.
-      <br><br><code>Django</code> <code>MongoDB</code> · <a href="https://github.com/bishalde/TaskMate">Code</a>
-    </td>
-  </tr>
-</table>
+- **Full-stack web development:** from UX to deployment. React and Next.js frontends, Node and Python backends, databases and CI/CD.
+- **ML, Gen-AI and RAG:** LLM apps, retrieval-augmented generation, embeddings, vector stores and evaluation.
+- **DevOps and observability:** cloud infrastructure on AWS, Docker and Kubernetes, Terraform, and metrics, traces and logs with Prometheus, Grafana and Datadog.
+
+## Projects
+
+**Live**
+- **[CountJar](https://countjar.vercel.app)** ([code](https://github.com/bishalde/countjar)): hosted counters where every number gets its own URL. Count views, likes, votes and ratings over an API, show them with widgets and badges, and get milestone alerts by webhook or SMS. The views badge above runs on it.
+- **[MemoryBell](https://memorybell.vercel.app)** ([code](https://github.com/bishalde/MemoryBell)): save a birthday or anniversary once and get a text on the day, or up to a week ahead, every year. Counts the years and keeps your gift ideas.
+- **[QRBuilder](https://qrbuilder.vercel.app)** ([code](https://github.com/bishalde/QR-Code-Generator)): QR codes for links, Wi-Fi, contact cards, emails, texts and locations, with custom colours, shapes and logos, exported as PNG, JPEG or SVG, all in the browser.
+- **[GitHubCrawler](https://githubcrawler.vercel.app)** ([code](https://github.com/bishalde/GithubCrawler)): explore any GitHub profile: language mix, top repos, total stars and a repo timeline, plus a repo explorer and side-by-side developer comparison.
+- **[Shrinkk](https://shrinkk.vercel.app)** ([code](https://github.com/bishalde/Shrinkk)): shorten links, generate QR codes and build a link-in-bio page, then see who's clicking and from where.
+- **[TaskMate](https://taskmatee.vercel.app)** ([code](https://github.com/bishalde/TaskMate)): a to-do and project manager for creating, organising and prioritising tasks.
+
+**Also built**
+- **Generative AI financial advisor:** an assistant using LLAMA-2, OpenAI and Gemini to answer questions about uploaded financial documents and give general advice.
+- **Interactive KYC verification:** conversational, multilingual KYC using WebSockets and LLMs for real-time, natural interactions.
+- **[ProjectTree](https://projecttree.vercel.app)** ([code](https://github.com/bishalde/ProjectTree)): an open-source platform to showcase and discover developer projects.
 
 More on my [portfolio](https://bishalde.vercel.app/#projects) and in my [repositories](https://github.com/bishalde?tab=repositories).
 
@@ -91,20 +66,51 @@ More on my [portfolio](https://bishalde.vercel.app/#projects) and in my [reposit
 **Cloud, DevOps and observability**<br>
 [![DevOps](https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,linux,grafana,prometheus,vercel)](https://skillicons.dev)
 
-Also: ClickHouse · Datadog · OpenTelemetry · Buildkite · LLMs and RAG · React Native
+Also: ClickHouse · Datadog · OpenTelemetry · Buildkite · CI/CD · LLMs and RAG · React Native
 
 ## Experience
 
-| When | Role |
-| --- | --- |
-| **Jun 2025 – now** | **Software Development Engineer, [Twilio](https://www.twilio.com)**: observability for the Communications business unit, in Python and Go, with Datadog, Grafana, Prometheus, Buildkite and AWS |
-| Aug 2024 – May 2025 | **Software Developer Intern, Nokia**: full-stack apps with Next.js, Express and Flask, Docker and Kubernetes deployments, RAG and LLM features |
-| Jan 2024 – Jul 2024 | **Cloud & Digital Analytics Intern, PwC**: Python, data engineering and analytics |
-| Oct 2023 – Dec 2023 | **Full Stack Developer Intern, Reflow Technologies**: client websites with Next.js, Firebase, MongoDB and MQTT |
+**Software Development Engineer – L1, [Twilio](https://www.twilio.com)** · Jun 2025 – now · Remote / Bengaluru
+- Observability team in the Communications business unit, working on the reliability and performance monitoring of distributed systems
+- Backend services and observability tooling in **Python** and **Go**
+- Metrics and traces with **Datadog**, **Grafana**, **Prometheus**, plus Nagios for legacy setups
+- CI/CD with **Buildkite**, deploying infrastructure and services on **AWS**
+- Internal hackathons, building tools for monitoring, alerting and performance insights
 
-**Education:** B.Tech in Computer Science (AI & ML), SRM Institute of Science & Technology, 2021 – 2025, CGPA 9.76
+**Software Developer Intern, Nokia** · Aug 2024 – May 2025 · Bengaluru
+- Worked with the CNS and AI-R&D teams to improve internal platforms and client solutions
+- Full-stack apps with Next.js, Express and Flask, with Python and C++ microservices
+- Containerised deployments with Docker and Kubernetes
+- Built RAG and LLM-based features and presented product demos to leadership
 
-**Hackathons:** 🥇 M2P Hackathon (2023) · 🥇 Bajaj Finserv Appathon (2024) · 🥈 Synapse Hackathon (2024)
+**Cloud & Digital Analytics Intern, PwC** · Jan 2024 – Jul 2024 · Remote
+- IT fundamentals, relational databases, Python and data engineering
+- Analytics and visualisation with Pandas, NumPy and Seaborn
+
+**Full Stack Software Developer Intern, Reflow Technologies** · Oct 2023 – Dec 2023 · Chennai
+- Designed, built and deployed client websites for Malladi Drugs and Elettrico
+- Next.js, Firebase, MongoDB and MQTT for real-time features, plus Linux server management
+
+## Education
+
+**B.Tech in Computer Science & Engineering (AI & ML)**, SRM Institute of Science & Technology, Chennai · 2021 – 2025 · **CGPA 9.76**
+
+**Class 10th & 12th**, Bhavan's Kesari Devi Kanoria Vidya Mandir, Renukoot · 2019 & 2021 · **97% & 95.4%**
+
+**Scholarships and recognition**
+- **SRMJEE Merit Scholarship:** SRMJEE rank 137, with a 100% tuition fee waiver
+- **Merit recognition:** 10 CGPA in the 1st, 4th and 8th semesters
+- **School topper** in 10th and 12th, recognised by LIC, Amar Ujala and Hindalco Industries
+
+## Hackathons
+
+- 🥇 **M2P Hackathon** (Jan 2023): fine-tuned an ML model and used web scraping to improve data accuracy and relevance for business use cases
+- 🥇 **Bajaj Finserv Appathon** (Feb 2024): built an AI assistant on LLAMA-2 to answer questions about uploaded finance documents and general finance
+- 🥈 **Synapse Hackathon** (May 2024): a real-time analytics dashboard with Next.js and Material UI, sponsored by IEEE IEM CS
+
+## Languages I speak
+
+English (fluent) · Hindi (fluent) · Bengali (native) · Japanese (learned in college)
 
 ## GitHub stats
 
@@ -135,4 +141,5 @@ Also: ClickHouse · Datadog · OpenTelemetry · Buildkite · LLMs and RAG · Rea
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-bishalde-FF5E5B?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/bishalde)
 
 Got a product to ship, a system to scale or an AI idea to prototype? Say hi at
-**[itsbishalde@yahoo.com](mailto:itsbishalde@yahoo.com)**.
+**[itsbishalde@yahoo.com](mailto:itsbishalde@yahoo.com)** or through the contact form on
+**[my portfolio](https://bishalde.vercel.app/#contact)**.
